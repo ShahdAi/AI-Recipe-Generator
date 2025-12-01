@@ -2,6 +2,7 @@
 # AI Powered Recipe Generator & Calorie Calculator
 
 This project is an AI-powered system that generates personalized meal recipes based on user-defined calorie limits and selected ingredients. It also generates a realistic food image using modern generative AI models. The system combines NLP-based recipe generation with image synthesis and is implemented as an interactive Gradio web application.
+![Demo Image]([https://github.com/ShahdAltamimi/AI-Recipe-Generator/blob/main/images/demo.png](https://github.com/ShahdAi/AI-Recipe-Generator/blob/main/%D8%B5%D9%88%D8%B1%D8%A91.jpg))
 
 ## 🚀 Features
 - Calorie-based ingredient filtering
