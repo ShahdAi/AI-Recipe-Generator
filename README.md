@@ -112,6 +112,11 @@ Various ingredient combinations tested—system responded flexibly and consisten
 - Voice interaction  
 - Advanced constraint-based recipe generation  
 
+### 🎥 Demo Video
+Click below to watch the project demo:
+
+[Watch the video](demo/demo_video.mp4)
+
 ---
 
 ## 👩‍💻 Project Members
